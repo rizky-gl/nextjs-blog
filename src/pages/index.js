@@ -35,9 +35,9 @@ export default function Home() {
           <Image src="/haerin.jpg" alt="Haerin" width={540} height={161} />
         </div>
         <div className="progress-bar">
-          {/* Konten bar akan ditempatkan di sini */}
+          <p>idk,,</p>
         </div>
-        );
+        ;
         <div className={styles.grid}>
           <a
             href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
