@@ -18,7 +18,11 @@ export default function Home() {
         <div className={styles.description}>
           <p>I Love Haerin</p>
         </div>
-
+        
+        <div className={styles.description}>
+          <p>Birthday: May 15, 2006</p>
+        </div>
+        
         <div>
           <p> Entah apa ini </p>
           <Image src="/haerin.jpg" alt="Haerin" width={540} height={161} />
