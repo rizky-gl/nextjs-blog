@@ -41,7 +41,7 @@ export default function Home() {
         <div className={styles.center}>
           <Image
             className={styles.logo}
-            src="/download (91).jpg"
+            src="haerin.jpg"
             alt="Next.js Logo"
             width={180}
             height={37}
