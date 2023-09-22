@@ -16,7 +16,7 @@ export default function Home() {
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
-          <p>Haerin is the best</p>
+          <p>I Love Haerin</p>
         </div>
 
         <div>
