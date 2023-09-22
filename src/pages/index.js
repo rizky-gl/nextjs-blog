@@ -17,20 +17,17 @@ export default function Home() {
       <main className={`${styles.main} ${inter.className}`}>
         <div className={styles.description}>
           <h3>Haerin Fun Fact:</h3>
-          <p>Stage Name: Haerin (해린)
-Birth Name: Kang Haerin (강해린)
-English Name: Vanessa Kang
-Birthday: May 15, 2006
-Zodiac Sign: Taurus
-Chinese Zodiac Sign: Dog
-Height: 164.5 cm (5’4”)
-Weight: –
-Blood Type: B
-MBTI Type: ISTP
-Nationality: Korean
-Representative Color: White
-Representative Emoji: 🐹
-          </p>
+          <li>
+            Stage Name: Haerin (해린) Birth Name: Kang Haerin (강해린) English
+          </li>
+          <li>Name: Vanessa Kang Birthday: May 15, 2006 Zodiac Sign: Taurus</li>
+          <li>
+            Chinese Zodiac Sign: Dog Height: 164.5 cm (5’4”) Weight: – Blood
+          </li>
+          <li>
+            Type: B MBTI Type: ISTP Nationality: Korean Representative Color:
+          </li>
+          <li>White Representative Emoji: 🐹</li>
         </div>
 
         <div>
