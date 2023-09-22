@@ -30,14 +30,11 @@ export default function Home() {
           </li>
           <li>White Representative Emoji: 🐹</li>
         </div>
-        <div>
+        <div className={styles.Head}>
           <p> Entah apa ini </p>
           <Image src="/haerin.jpg" alt="Haerin" width={540} height={161} />
         </div>
-        <div className="progress-bar">
-          <p>idk,,</p>
-        </div>
-        ;
+
         <div className={styles.grid}>
           <a
             href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
