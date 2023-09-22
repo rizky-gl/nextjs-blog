@@ -7,8 +7,8 @@
   min-height: 100vh;
 }
 
-something {
-  justify-content: flex-start;
+.left-align {
+  text-align: left;
 }
 
 .description {
