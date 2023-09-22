@@ -40,6 +40,12 @@ export default function Home() {
 
         <div>
             <p> Entah apa ini </p>
+            <Image
+                src="/haerin.jpg"
+                alt="Haerin"
+                width={540}
+                height={161}
+              />
         </div>
 
         <div className={styles.grid}>
