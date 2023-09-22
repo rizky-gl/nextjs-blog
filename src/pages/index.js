@@ -2,6 +2,7 @@ import Head from "next/head";
 import Image from "next/image";
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
+import React from "react";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -29,12 +30,14 @@ export default function Home() {
           </li>
           <li>White Representative Emoji: 🐹</li>
         </div>
-
         <div>
           <p> Entah apa ini </p>
           <Image src="/haerin.jpg" alt="Haerin" width={540} height={161} />
         </div>
-
+        <div className="progress-bar">
+          {/* Konten bar akan ditempatkan di sini */}
+        </div>
+        );
         <div className={styles.grid}>
           <a
             href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
