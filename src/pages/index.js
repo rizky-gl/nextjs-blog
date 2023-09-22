@@ -15,7 +15,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
-        <div className={styles.description}>
+        <div>
           <h3>Haerin Fun Fact:</h3>
           <li>
             Stage Name: Haerin (해린) Birth Name: Kang Haerin (강해린) English
